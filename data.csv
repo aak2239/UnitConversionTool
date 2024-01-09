@@ -1,0 +1,81 @@
+Metric,Unit to Convert From,Unit to Convert To,Conversion Rate
+Area,m²,ft²,10.7639
+Area,ft²,m²,0.092903
+Area,m²,Acre,0.000247105
+Area,Acre,m²,4046.86
+Area,ft²,Acre,2.29568E-05
+Area,Acre,ft²,43560
+Mass,kg,lb,2.20462
+Mass,lb,kg,0.453592
+Mass,kg,US Ton,0.00110231
+Mass,US Ton,kg,907.185
+Mass,kg,Metric Tonne,0.001
+Mass,Metric Tonne,kg,1000
+Mass,lb,US Ton,0.0005
+Mass,US Ton,lb,2000
+Mass,lb,Metric Tonne,0.000453592
+Mass,Metric Tonne,lb,2204.62
+Mass,US Ton,Metric Tonne,0.907185
+Mass,Metric Tonne,US Ton,1.10231
+Energy,Joules,kWh,2.77778E-07
+Energy,kWh,Joules,3600000
+Energy,Joules,MWh,2.77778E-10
+Energy,MWh,Joules,3600000000
+Energy,Joules,kBtu,0.000947817
+Energy,kBtu,Joules,1055.06
+Energy,Joules,MMBtu,9.47817E-07
+Energy,MMBtu,Joules,1055060000
+Energy,Joules,therm,9.48043E-06
+Energy,therm,Joules,105480
+Energy,kWh,MWh,0.001
+Energy,MWh,kWh,1000
+Energy,kWh,kBtu,3.41214
+Energy,kBtu,kWh,0.293071
+Energy,kWh,MMBtu,0.00341214
+Energy,MMBtu,kWh,293.071
+Energy,kWh,therm,0.0341214
+Energy,therm,kWh,29.3071
+Energy,MWh,kBtu,3412.14
+Energy,kBtu,MWh,0.000293071
+Energy,MWh,MMBtu,3.41214
+Energy,MMBtu,MWh,0.293071
+Energy,MWh,therm,34.1214
+Energy,therm,MWh,0.0293071
+Energy,kBtu,MMBtu,0.001
+Energy,MMBtu,kBtu,1000
+Energy,kBtu,therm,0.01
+Energy,therm,kBtu,100
+Energy,MMBtu,therm,10
+Energy,therm,MMBtu,0.1
+Volume,ft³,CCF,0.01
+Volume,CCF,ft³,100
+Volume,ft³,m³,0.0283168
+Volume,m³,ft³,35.3147
+Volume,ft³,US Gal,7.48052
+Volume,US Gal,ft³,0.133681
+Volume,ft³,L,28.3168
+Volume,L,ft³,0.0353147
+Volume,CCF,m³,2.83168
+Volume,m³,CCF,0.353147
+Volume,CCF,US Gal,748.052
+Volume,US Gal,CCF,0.00133681
+Volume,CCF,L,2831.68
+Volume,L,CCF,0.000353147
+Volume,m³,US Gal,264.172
+Volume,US Gal,m³,0.00378541
+Volume,m³,L,1000
+Volume,L,m³,0.001
+Volume,US Gal,L,3.78541
+Volume,L,US Gal,0.264172
+GHG,kg CO2e/year,lbs CO2e/year,2.20462
+GHG,lbs CO2e/year,kg CO2e/year,0.453592
+GHG,kg CO2e/year,Metric Ton CO2e/year,0.001
+GHG,Metric Ton CO2e/year,kg CO2e/year,1000
+GHG,kg CO2e/year,US Ton CO2e/year,0.00110231
+GHG,US Ton CO2e/year,kg CO2e/year,907.185
+GHG,lbs CO2e/year,Metric Ton CO2e/year,0.000453592
+GHG,Metric Ton CO2e/year,lbs CO2e/year,2204.62
+GHG,lbs CO2e/year,US Ton CO2e/year,0.0005
+GHG,US Ton CO2e/year,lbs CO2e/year,2000
+GHG,Metric Ton CO2e/year,US Ton CO2e/year,1.10231
+GHG,US Ton CO2e/year,Metric Ton CO2e/year,0.907185
