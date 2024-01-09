@@ -1,5 +1,7 @@
 # UnitConversionTool
-UnitConversionTool: A Python utility for generating comprehensive unit conversion formulas. It efficiently processes datasets to extract unique units and create conversion combinations for metrics like Area, Energy, Mass, and Volume. Ideal for professionals and enthusiasts in fields requiring frequent unit conversions.
+
+## Overview
+UnitConversionTool is a Python-based utility designed to generate unit conversion combinations and conversion formulas. It uses a dataset to extract unique units for various metrics like Area, Energy, Mass, and Volume, and creates a comprehensive list of conversion formulas.
 
 ## Features
 - Extract unique units from a dataset.
@@ -14,3 +16,19 @@ UnitConversionTool: A Python utility for generating comprehensive unit conversio
 
 ### Installation
 Clone the repository to your local machine:
+git clone https://github.com/aak2239/UnitConversionTool.git
+Navigate to the cloned directory:
+cd UnitConversionTool
+Install the required packages:
+pip install -r requirements.txt
+
+### Usage
+Run the script using Python:
+python unit_conversion_generator.py
+The script reads a dataset (CSV file) and outputs a file with the generated conversions.
+
+## Contributing
+Contributions to the UnitConversionTool are welcome. Please ensure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
